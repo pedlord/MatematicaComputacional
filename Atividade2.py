@@ -78,7 +78,7 @@ print("secante: ",  s[0]," k: ", s[1], " f(x): ", f6grau(b[0]),)
 mostraTabela([-1,0,1,2], f6grau, 1)
 print()
 
-print("funcao logaritimica")
+print("funcao logaritmica")
 b = bisseccao(-1,1,flog)
 print("bissecção: ",  b[0]," k: ", b[1], " f(x): ", flog(b[0]))
 p = posiFalsa(-1,1, flog)
